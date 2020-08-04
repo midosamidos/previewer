@@ -1,4 +1,7 @@
 # previewer
+Writing your first javascript library: https://hackernoon.com/writing-your-first-javascript-library-475b776f5e73
+
+[Link to the article](https://hackernoon.com/writing-your-first-javascript-library-475b776f5e73)
 
 ![Giphy](https://media.giphy.com/media/xUOrwnP6582IGswTaU/giphy.gif)
 
